@@ -1,0 +1,4 @@
+GET /api/ping
+PUT /api/report/{id}
+#for body refer to code
+# Use GET for testing purpose
